@@ -1,0 +1,21 @@
+body {
+    background-color: darkorange;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+li.egg {
+    background-color: green;
+    color: black;
+}
+
+li.smore {
+    background-color: rgb(255, 255, 255);
+}
+
+li.noodle {
+    background-color: bisque;
+}
